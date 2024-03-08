@@ -10,6 +10,7 @@ public class ReadFour
     /**
      * Yes, you can look at the other 
      * examples in this lab to build your solution here.
+     * 
      */
         public static void main(String[] args) throws FileNotFoundException {
             // Print out a running total of all the
